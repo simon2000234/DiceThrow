@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceThrow</string>
+    <string name="calDice">Throw some dice</string>
+    <string name="dH">Dice History:</string>
+    <string name="cH">Clear History</string>
+    <string name="oh">Open History</string>
+</resources>
